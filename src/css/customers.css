@@ -1,0 +1,15 @@
+.customers {
+  margin: 35px;
+  text-align: center;
+}
+
+.customers-title {
+  font-size: 36px;
+  color: blue;
+}
+
+.customers-text {
+  padding: 40px;
+  background-color: blueviolet;
+  color: azure;
+}
