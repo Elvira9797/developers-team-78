@@ -1,0 +1,9 @@
+.header-list {
+  display: flex;
+  gap: 10px;
+}
+
+.header-item {
+  padding: 8px 15px;
+  background-color: aqua;
+}
